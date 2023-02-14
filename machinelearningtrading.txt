@@ -1,0 +1,29 @@
+using artificial neural networks for time series smoothing and forecasting
+
+
+Deriving Policy Gradients and Implementing REINFORCE
+https://medium.com/@thechrisyoon/deriving-policy-gradients-and-implementing-reinforce-f887949bd63
+
+algoritmo de mezclas gausianas 
+
+- Pattern Recognition and Machine Learning (Cristopher M. Bishop)
+- Machine Learning (Tom M. Mitchell)
+- Elements of Statistical Learning (Trevor Hastie, Robert Tibshirani, Jerome Friedman)
+- An Introduction to Statistical Learning with applications in R (Gareth James, Daniela Witten, Trevor Hastie & Robert Tibshirani)
+- Artificial Intelligence: A Modern Approach (Stuart J. Russel & Peter Norvig)
+- The Hundred-Page Machine Learning Book (Andriy Burkov)
+- Probability and Statistics (Michael J. Evans & Jeffrey S. Rosenthal)
+- All of Statistics: A Concise Course in Statistical Inference (Larry Wasserman)
+- Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems (Aurélien Géron)
+- Big Data MBA: Driving Business Strategies with Data Science (Bill Schmarzo)
+- Bayesian Reasoning and Machine Learning (David Barber)
+- Deep Learning Book (Ian Goodfellow, Yoshua Bengio & Aaron Courville)
+- Mining of Massive Datasets (Jure Leskovec, Anand Rajaraman &Jeff Ullman)
+- Pattern Classification (Richard O. Duda, Peter E. Hart & David G. Stork)
+- Deep Learning with Python (François Chollet)
+- Mathematics for Machine Learning (Marc Peter Deisenroth, A. Aldo Faisal & Cheng Soon Ong)
+- Probabilistic Programming & Bayesian Methods for Hackers (Caneron Davison-Pilon)
+- Exploratory Data Analysis (John Tukey)
+- Programming Collective Intelligence (Toby Segaran)
+- Data Analysis and Regression: A Second Course in Statistics (Frederick Mosteller & John Tukey)
+- The Future of Data Analysis (John Turkey). Este no es un libro pero es un artículo muy importante.
